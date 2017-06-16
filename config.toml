@@ -12,11 +12,14 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name = "Home"
+    url = "/"
+[[menu.main]]
     name = "About"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/shanmdphd/clubmang"
+    url = "https://github.com/shanmdphd/zcash-maddog"
 
 [params]
     description = "zcash-aws"
