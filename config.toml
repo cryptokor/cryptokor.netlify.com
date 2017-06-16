@@ -1,4 +1,4 @@
-baseurl = "https:/zcash.netlify.com"
+baseurl = "https:/zcash.netlify.com/"
 relativeurls = true
 languageCode = "en-us"
 title = "zcash on aws experiment "
