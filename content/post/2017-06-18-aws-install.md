@@ -12,3 +12,4 @@ AWS CLI는 AWS를 보다 편리하게 사용할 수 있도록 해주는 도구�
 
 MacOS 위주이나 [다음 링크](http://docs.aws.amazon.com/cli/latest/userguide/cli-install-macos.html)로 가면 다른 OS에서 대한 정보도 얻을 수 있습니다.
 
+![MacOS에서 버젼 확인 후 업데이트 하는 장면](/static/assets/aws-cli-updates.png)
