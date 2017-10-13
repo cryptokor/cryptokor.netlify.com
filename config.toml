@@ -3,6 +3,7 @@ baseurl = "https://zcash.netlify.com/"
 relativeurls = true
 languageCode = "en-us"
 title = "zcash on aws experiment "
+#theme = "hugo-xmin"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
