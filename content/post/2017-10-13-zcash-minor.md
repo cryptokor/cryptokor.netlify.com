@@ -1,0 +1,16 @@
+---
+title: 조금 더 공부..
+date: 2017-10-13
+author: maddog
+slug: more-study
+categories: ['zcash', 'steem']
+tags: ['bitcoin', 'aws', 'zcash', 'steem']
+---
+
+- 스팀과 스팀잇에 대해 알아보자 <https://steemit.com/steem/@yoon/2yhtik>
+- zcash 설정법 <https://steemit.com/kr/@clayop/zcash>
+- 코인시장 동향 <https://steemit.com/@ninzacode>
+
+- How to mine Zcash - ZEC (Windows) <https://www.cryptocompare.com/mining/guides/how-to-mine-zcash/>
+
+

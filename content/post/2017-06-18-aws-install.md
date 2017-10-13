@@ -31,3 +31,5 @@ I faced same issue today. AWS documentation does not clearly mention growpart. I
 sudo growpart /dev/xvda 1
 sudo resize2fs /dev/xvda1
 ```
+
+
